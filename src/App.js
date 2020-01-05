@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I am the King!  HAHAHA
+          HaHaHa
         </a>
       </header>
       <p className="App-intro">

@@ -16,11 +16,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          HaHaHa
+	Learn React
         </a>
       </header>
       <p className="App-intro">
-        Hi There!
+        Done.!
       </p>
     </div>
   );
